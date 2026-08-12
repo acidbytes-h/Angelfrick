@@ -13,7 +13,7 @@
 | **influence** | [brainfuck](https://esolangs.org/wiki/Brainfuck) |
 | **files** | `.angelfrick` |
 
-**Angelfrick** is a [Trivial brainfuck substitution](https://esolangs.org/wiki/Trivial_brainfuck_substitution) created in 2026 by [Acidbytes.h](https://esolangs.org/wiki/User:Acidbytes.h) in which each of the eight [brainfuck](https://esolangs.org/wiki/Brainfuck) commands is replaced by a long English word — mostly the standard trophy words of English lexicography, such as *pneumonoultramicroscopicsilicovolcanoconiosis* and *floccinaucinihilipilification* — subjected to three further layers of deliberate obstruction:
+**Angelfrick** is a [Trivial brainfuck substitution](https://esolangs.org/wiki/Trivial_brainfuck_substitution) created in 2026 by [acidbytes.h](https://esolangs.org/wiki/User:Acidbytes.h) in which each of the eight [brainfuck](https://esolangs.org/wiki/Brainfuck) commands is replaced by a long English word — mostly the standard trophy words of English lexicography, such as *pneumonoultramicroscopicsilicovolcanoconiosis* and *floccinaucinihilipilification* — subjected to three further layers of deliberate obstruction:
 
 1. The letters of each word are **arbitrarily cased**, in a pattern with no rule behind it, which must be reproduced exactly.
 2. Each word carries a case-scrambled copy of the nonsense string *cfguhyttrdes* and a **unique punctuation sigil**: `$ ! * % & @ {` and `£`.
@@ -23,7 +23,7 @@ The result is a language whose shortest command is 46 bytes and whose longest is
 
 ## Commands
 
-| brainfuck | Angelfrick | Bytes | Meaning |
+| Brainfuck | Angelfrick | Bytes | Meaning |
 |---|---|---|---|
 | `>` | `ThyROparAtHyROIDectomIzEdCfGUhYTTrDeS$><+-.,[]` | 46 | Move the pointer right |
 | `<` | `SUPErcaliFrAgilIStiCeXpiaLIDOcIOUsCFguhYtTRdeS!><+-.,[]` | 55 | Move the pointer left |
